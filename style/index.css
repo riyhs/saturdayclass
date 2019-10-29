@@ -36,6 +36,7 @@ a:hover {
 
 .link-sidenav-dashboard-admin-riyaldi {
     padding: 16px !important;
+    width: 200px !important;
     line-height: 3rem;
     color: #8E8A8A;
     font-size: 18px;
@@ -45,8 +46,12 @@ a:hover {
     color: #000;
 }
 
-.list-sidenav-dashboard-admin-riyaldi span {
-    margin-left: 12px;
+.list-sidenav-dashboard-admin-riyaldi i {
+    display: block;
+    float: left;
+    font-size: 28px !important;
+    margin-top: 8px !important;
+    margin-left: 14px;
 }
 
 /* =================== AKHIR SIDENAV =================== */
@@ -121,7 +126,7 @@ a:hover {
 
 /* =================== AKHIR HEADER =================== */
 .konten-dashboard-admin-riyaldi {
-    margin-top: -5rem;
+    margin-top: -20rem !important;
 }
 
 .card-konten-dashboard-admin-riyaldi {
