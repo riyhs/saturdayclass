@@ -49,10 +49,41 @@ a:hover {
 .list-sidenav-dashboard-admin-riyaldi i {
     display: block;
     float: left;
-    font-size: 28px !important;
-    margin-top: 8px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px;
     margin-left: 14px;
 }
+
+.dashboard-icon-dashboard-admin-riyaldi {
+    color: #49BEB7 !important;
+    font-size: 28px !important;
+}
+
+.user-icon-dashboard-admin-riyaldi {
+    color: #F6D365 !important;
+    font-size: 28px !important;
+}
+
+.kelas-icon-dashboard-admin-riyaldi {
+    color: #23374D !important;
+    font-size: 28px !important;
+}
+
+.materi-icon-dashboard-admin-riyaldi {
+    color: #EB7070 !important;
+    font-size: 28px !important;
+}
+
+.blog-icon-dashboard-admin-riyaldi {
+    color: #5EDFFF !important;
+    font-size: 28px !important;
+}
+
+.traffic-icon-dashboard-admin-riyaldi {
+    color: #3171D1 !important;
+    font-size: 28px !important;
+}
+
 
 /* =================== AKHIR SIDENAV =================== */
 
@@ -82,8 +113,9 @@ a:hover {
 }
 
 .isi-card-dashboard-admin-riyaldi {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 20px;
+    color: #000000;
 }
 
 .judul-card-dashboard-admin-riyaldi {
@@ -165,4 +197,10 @@ a:hover {
 .tombol-seeall-dashboard-admin a:hover {
     text-decoration: none;
     color: #fff;
+}
+
+.thead-light tr th {
+    font-weight: 300 !important;
+    font-size: 14px !important;
+    color: #9EA1AD !important;
 }
