@@ -132,22 +132,22 @@ a:hover {
 
 .navbar-dashboard-admin-riyaldi .row .pl-4 {
     font-weight: 600;
-    font-size: 25px;
+    font-size: 18px;
     line-height: 30px;
     color: #fff;
 }
 
 .navbar-dashboard-admin-riyaldi .row .pr-5 {
     font-weight: bold;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 29px;
     color: #ECEBEF;
     text-align: right;
 }
 
 .navbar-dashboard-admin-riyaldi .row .pr-5 img {
-    width: 54.45px;
-    height: 51px;
+    width: 45px;
+    height: 45px;
     margin-right: 12px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -163,11 +163,15 @@ a:hover {
 
 .card-konten-dashboard-admin-riyaldi {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    border-radius: 10px !important;
-    -webkit-border-radius: 10px !important;
-    -moz-border-radius: 10px !important;
-    -ms-border-radius: 10px !important;
-    -o-border-radius: 10px !important;
+    border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+}
+
+.box-shadow-riyaldi {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
 .top-card-dashboard-admin-riyaldi:first-child {
